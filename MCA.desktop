@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=Multiple Centrality Assessment
+Comment=Multiple Centrality Assessment
+Exec=/usr/bin/python2.7 /usr/local/mca_desktop/mca.py
+GenericName[en_US]=
+GenericName=
+Icon=/usr/local/mca_desktop/mca/ui/resources/images/mca.png
+MimeType=
+Name[en_US]=Multiple Centrality Assessment
+Name=Multiple Centrality Assessment
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=
